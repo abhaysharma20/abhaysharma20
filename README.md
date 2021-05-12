@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhay Sharma
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Javascript and Deep Learning  
-- 💞️ I’m looking to collaborate on Some Deep Learning Projects
+- 🌱 I’m currently learning Flutter and Deep Learning  
+- 💞️ I’m looking to collaborate on Some Projects
 - 📫 You can Drop me Mail at sharmaabhayagra@hotmail.com
 
 <!---
