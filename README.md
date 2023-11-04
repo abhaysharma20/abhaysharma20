@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and Mobile App Development
 - 🌱 I’m currently learning Flutter and Deep Learning  
 - 💞️ I’m looking to collaborate on Some Projects
-- 📫 You can Drop me Mail at sharmaabhayagra@protonmail.com
+- 📫 You can Drop me Mail at sharmaabhayagra@gmail.com
 
 <!---
 abhaysharma20/abhaysharma20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
