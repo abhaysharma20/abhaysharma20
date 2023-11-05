@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhay Sharma
-- 👀 I’m interested in Machine Learning and Mobile App Development
-- 🌱 I’m currently learning Flutter and Deep Learning  
+- 👀 I’m interested in Mobile App Development
+- 🌱 I’m currently learning Flutter and Kotlin 
 - 💞️ I’m looking to collaborate on Some Projects
 - 📫 You can Drop me Mail at sharmaabhayagra@gmail.com
 
