@@ -41,7 +41,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 - 📧 **Email:** [sharmaabhayagra@gmail.com](mailto:sharmaabhayagra@gmail.com)
 - 🌐 **Portfolio:** [abhaysharma20.github.io](https://abhaysharma20.github.io)
-- 💼 **LinkedIn:** Let's connect! *(Add your LinkedIn link here if you have one)*
+- 💼 **LinkedIn:** [linkedin.com/in/abhaysharma20](https://www.linkedin.com/in/abhaysharma20)
 
 ---
 
