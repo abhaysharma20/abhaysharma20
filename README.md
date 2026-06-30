@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Abhay Sharma
-- 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently working on Flutter, Python and Kotlin 
-- 💞️ I’m looking to collaborate on Some Projects
+- 👋 Hi, I am Abhay Sharma
+- 👀 Interested in Mobile App Development
+- 🌱 Currently working on Flutter, Python and Kotlin 
+- 💞️ Looking to collaborate on Some Projects
 - 📫 You can Drop me Mail at sharmaabhayagra@gmail.com
 
 <!---
